@@ -1,0 +1,34 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.Python
+dist/
+build/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Runtime capture data — never commit packet traces or databases
+captures/
+data/
+exports/
+logs/
+*.pcap
+*.pcapng
+*.db
+*.db-wal
+*.db-shm
+manticore-net-data/
+
+# Editor / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db

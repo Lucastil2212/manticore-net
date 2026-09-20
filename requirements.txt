@@ -1,0 +1,4 @@
+scapy==2.7.0
+textual==8.2.0
+evdev==2.0.0
+psutil>=5.9
