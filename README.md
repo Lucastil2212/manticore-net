@@ -16,6 +16,17 @@ It captures traffic you can already see on a chosen interface, stores rotating P
 - DISCOVER tab: new hosts, new DNS names, top talkers, protocol mix
 - iNNEXT mapped from the real DragonRise `0079:0011` evdev codes
 
+## TRIAD Soccer (local client)
+
+Install the lightweight TRIAD client (same Glyph Grid Render host for online):
+
+```bash
+./scripts/install-triad.sh
+~/triad-soccer/scripts/run.sh
+```
+
+Downloads: https://glyphgrid.online/downloads/
+
 ## Requirements
 
 - Linux with `libpcap` (Raspberry Pi OS, Debian, or Ubuntu)
