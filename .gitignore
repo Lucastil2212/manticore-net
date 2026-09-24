@@ -32,3 +32,6 @@ manticore-net-data/
 *.swp
 .DS_Store
 Thumbs.db
+
+# Local TRIAD Soccer install (symlink created by install-triad.sh)
+triad-soccer
